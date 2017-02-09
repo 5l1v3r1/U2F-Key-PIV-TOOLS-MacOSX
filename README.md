@@ -8,7 +8,7 @@ Use the Yubico PIV Tool, with the command line interface, to administer a PIV-en
 YubiKey PIV Manager (with graphic interface) v1.4.1
 
     Linux Download : https://developers.yubico.com/yubikey-piv-manager/Releases/yubikey-piv-manager-1.4.1.tar.gz
-    Mac OS X Download : https://github.com/MrMugiwara/U2F-Key-PIV-TOOLS-MacOSX/MacOSX-PIV-Manager/yubikey-piv-manager-1.4.1-mac.pkg
+    Mac OS X Download : https://github.com/MrMugiwara/U2F-Key-PIV-TOOLS-MacOSX/blob/master/MacOSX-PIV-Manager/yubikey-piv-manager-1.4.1-mac.pkg
     Microsoft Windows Download : https://developers.yubico.com/yubikey-piv-manager/Releases/yubikey-piv-manager-1.4.1-win.exe
 
 YubiKey PIV Tool (command line) v1.4.2
